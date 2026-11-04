@@ -3,8 +3,10 @@
 
 ## 가상환경 준비
 ```bash
-python -m venv . venv
+python -m venv .venv # 가상환경 생성
 
-·venv\Scripts\activate # 가상환경 활성화
+.venv\Scripts\activate # 활성화
+
+.venv\Scripts\deactivate # 비활성화
 ```
 # 가상환경 생성
